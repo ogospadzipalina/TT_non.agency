@@ -172,13 +172,12 @@ border-radius: 6px;
 .fourth__img {
     width: 200px;
     height: 200px;
-
+border-radius: 50%;
 }
 
 .img--small {
 flex: 1;
 height: 440px;
-border-radius: 50%;
 margin-bottom: 40px;
 }
 
@@ -220,6 +219,7 @@ letter-spacing: -0.21px;
 .img--small--extra {
     width: 44px;
 height: 44px;
+border-radius: 50%;
 }
 
 .eighth__art {
@@ -247,6 +247,7 @@ height: 44px;
 .nineth__img {
     width: 108px;
 height: 108px;
+border-radius: 50%;
 }
 
 .nineth__link {
@@ -283,6 +284,6 @@ margin-top: 24px;
 .tenth__img {
     flex: 1;
     background-color: gray;
-    margin: 100px 0 0 0;
+    padding: 100px 0 0 0;
     height: 500px;
 }
