@@ -280,22 +280,22 @@ border: 1px solid #18A0FB;
 .link__blue {
     display: block;
     width: 130px;
-height: 40px;
-text-decoration: none;
-text-align: center;
-line-height: 40px;
+    height: 40px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 40px;
 
-color: white;
-background-color: #18A0FB;
-border-radius: 6px;
+    color: white;
+    background-color: #18A0FB;
+    border-radius: 6px;
 }
 
 /* fourth section */
 
 .fourth__img {
     width: 200px;
-border-radius: 50%;
-margin-bottom: 40px;
+    border-radius: 50%;
+    margin-bottom: 40px;
 }
 
 @media (max-width: 400px) {
@@ -342,11 +342,11 @@ margin-bottom: 40px;
 .seventh__greyText {
     color: rgba(0, 0, 0, 0.60);
 
-font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: 22px; /* 157.143% */
-letter-spacing: -0.21px;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: -0.21px;
 }
 
 /* eigth section */
@@ -382,18 +382,18 @@ letter-spacing: -0.21px;
 .nineth__img {
     width: 108px;
 
-border-radius: 50%;
-margin-bottom: 24px;
+    border-radius: 50%;
+    margin-bottom: 24px;
 }
 
 .nineth__link {
     color: var(--Actionable-Item, #18A0FB);
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 30px;
-letter-spacing: -0.27px;
-text-decoration: none;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: -0.27px;
+    text-decoration: none;
 }
 
 .nineth__paragraf {
