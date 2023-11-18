@@ -287,3 +287,34 @@ margin-top: 24px;
     padding: 100px 0 0 0;
     height: 500px;
 }
+
+.eleventh {
+    padding: 120px 80px;
+}
+.eleventh__title {
+    width: 50%;
+}
+
+.eleventh__main {
+    display: flex;
+    gap: 84px;
+}
+
+.eleventh__art {
+    border: 1px solid rgba(0, 0, 0, 0.50);
+    flex: 1;
+}
+
+.eleventh__img {
+    background-color: gray;
+    height: 400px;
+}
+
+.eleventh__inside {
+    padding: 71px 64px;
+}
+
+.twelfth__img {
+    background-color: gray;
+    height: 275px; 
+}
